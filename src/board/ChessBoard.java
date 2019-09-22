@@ -132,7 +132,7 @@ public class ChessBoard extends Group {
 					}
 				}
 
-				// KNIGHTS
+				// KNIGHTS 骑士
 				if (row == 0) {
 					if (col == 1 ) {
 						s.addPiece(new Knightba(Color.BLACK));
